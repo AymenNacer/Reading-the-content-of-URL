@@ -1,5 +1,5 @@
-# Reading-the-content-of-URL
-Python code to read the content of url and turns it into a string
+# Reading the content of URL
+Python code to read the content of URL and turns it into a string
 
 to run this code
 1. install inscriptis package
