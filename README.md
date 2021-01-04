@@ -1,5 +1,5 @@
 # Reading the content of URL
-Python code to read the content of URL and turns it into a string
+(Smart Methods Internship) Python code to read the content of URL and turns it into a string
 
 to run this code
 1. install inscriptis package
